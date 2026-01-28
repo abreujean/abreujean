@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left" style="clear: both;" >I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
+<p align="left" style="clear: both;" >I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding</p>
 
 ###
 
